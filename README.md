@@ -95,3 +95,11 @@ You’re already here — feel free to explore or collaborate.
 ### ⚡ Build fast • Think clearly • Automate what matters
 
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="github contribution snake"
+    src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
+</picture>
+

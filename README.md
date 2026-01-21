@@ -50,8 +50,6 @@ I optimize for **usefulness over novelty**.
 - **JavaScript / TypeScript** — automation, integrations, tooling  
 
 ### 🤖 AI & Automation
-<img src="https://skillicons.dev/icons?i=ai" />
-
 - **n8n** — workflow automation, AI pipelines  
 - **LLMs** — prompt engineering, agents, tool calling  
 - **Speech Systems** — Whisper, STT, TTS  
